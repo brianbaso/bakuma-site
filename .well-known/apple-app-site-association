@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9VV6WLT2WF.com.bakuma.BakumaApp"],
+        "components": [
+          {
+            "/": "/plaid/*"
+          }
+        ]
+      }
+    ]
+  }
+}
