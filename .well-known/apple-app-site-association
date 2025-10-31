@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["9VV6WLT2WF.com.bakuma.BakumaApp"],
+        "appIDs": ["9VV6WLT2WF.org.Bakuma"],
         "components": [
           {
             "/": "/plaid/*"
